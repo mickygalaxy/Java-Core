@@ -3,9 +3,14 @@
 This repository contains a collection of Java programs that cover all the core topics of Java programming, from basic to advanced. The programs are organized into different folders, each of which corresponds to a specific topic. The topics include:
 
 # Basic Java
+   - History
+   - JDK, JVM and JRE
+   - syntax
    - Variables
    - Data types
+   - Comments
    - Operators
+   - Type Casting
    - Control flow statements
    - Functions
      
