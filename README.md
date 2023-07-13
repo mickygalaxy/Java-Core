@@ -10,6 +10,7 @@ This repository contains a collection of Java programs that cover all the core t
    - Data types
    - Comments
    - Operators
+   - Strings
    - Type Casting
    - Control flow statements
    - Functions
