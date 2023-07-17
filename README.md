@@ -17,6 +17,7 @@ This repository contains a collection of Java programs that cover all the core t
    - Maths
    - Control flow statements
    - Functions
+   - Lambda Expressions
      
    
 # Object-Oriented Programming
