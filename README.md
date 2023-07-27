@@ -8,7 +8,7 @@ This repository contains a collection of Java programs that cover all the core t
    - Difference between Java and C++ and Python
    - JDK, JVM and JRE
    - syntax
-   - Variables
+   - Variables 
    - Data types
    - Comments
    - Operators
