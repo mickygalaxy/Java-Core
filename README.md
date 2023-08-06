@@ -4,7 +4,7 @@ This repository contains a collection of Java programs that cover all the core t
 
 # Basic Java
    - Introductions
-   - History
+   - History  
    - Difference between Java and C++ and Python  
    - JDK, JVM and JRE
    - syntax  
