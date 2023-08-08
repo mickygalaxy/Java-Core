@@ -15,7 +15,7 @@ This repository contains a collection of Java programs that cover all the core t
    - Strings    
    - Type Casting
    - Maths
-   - Control flow statements
+   - Control flow statements 
    - Functions 
    - Lambda Expressions 
      
