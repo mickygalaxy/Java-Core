@@ -16,9 +16,11 @@ This repository contains a collection of Java programs that cover all the core t
    - Type Casting
    - Maths
    - Control flow statements 
-   - Functions 
+   - Functions
+   - Java autoboxing and unboxing
    - Lambda Expressions 
-     
+   - Java Generics
+   - Java File Class
    
 # Object-Oriented Programming
    - Classes
