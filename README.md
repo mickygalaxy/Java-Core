@@ -11,7 +11,7 @@ This repository contains a collection of Java programs that cover all the core t
    - Variables 
    - Data types
    - Comments
-   - Operators
+   - Operators  
    - Strings    
    - Type Casting
    - Maths
