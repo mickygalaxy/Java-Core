@@ -14,7 +14,7 @@ This repository contains a collection of Java programs that cover all the core t
    - Operators  
    - Strings    
    - Type Casting
-   - Maths
+   - Maths  
    - Control flow statements 
    - Functions
    - Java autoboxing and unboxing
