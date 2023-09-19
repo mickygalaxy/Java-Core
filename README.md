@@ -3,7 +3,7 @@
 This repository contains a collection of Java programs that cover all the core topics of Java programming, from basic to advanced. The programs are organized into different folders, each of which corresponds to a specific topic. The topics include:
 
 # Basic Java  
-   - Introductions
+   - Introductions 
    - History     
    - Difference between Java and C++ and Python     
    - JDK, JVM and JRE   
